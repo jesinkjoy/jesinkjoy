@@ -33,7 +33,7 @@ I'm a data-driven problem solver with a dual Master's in Decision Analytics and 
 **Languages:** Python, R, SQL, Java  
 **Libraries:** pandas, NumPy, scikit-learn, TensorFlow, Keras, XGBoost  
 **Visualization:** Matplotlib, Seaborn, ggplot2, Power BI, Tableau  
-**Other:** AMPL, Excel Solver, Jupyter, VS Code, MySQL
+**Other:** AMPL, Excel Solver, Jupyter, VS Code, MySQL, Tableau, PowerBI
 
 ---
 
