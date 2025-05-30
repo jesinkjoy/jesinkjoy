@@ -1,3 +1,4 @@
+![Jesin K Joy Banner](assets/banner.png)
 # 👋 Hi, I'm Jesin K Joy
 
 I'm a data-driven problem solver with a dual Master's in Decision Analytics and Data Science, with a strong foundation in Computer Science, and Statistics. I’m passionate about building intelligent systems that bridge the gap between business goals and data insights.
